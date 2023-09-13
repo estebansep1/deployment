@@ -2,7 +2,7 @@
 const express = require('express')
 const methodOverride = require('method-override')
 const mongoose = require('mongoose')
-var path = require('path')
+
 
 // CONFIGURATION
 require('dotenv').config()
